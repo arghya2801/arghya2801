@@ -19,6 +19,8 @@ C++, Java, JavaScript (React, Node.js, Express), Python (NumPy, Pandas, scikit-l
 ### ⚡ Side Interests  
 I enjoy integrating software with hardware through **Raspberry Pi** and **Arduino** projects, exploring IoT and automation.
 
+## Resume
+https://drive.google.com/file/d/1DmDorIE9CL8iTCmt8ilQg0Dyz7jVpCMf/view
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arghya_333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arghya2801@gmail.com) 
