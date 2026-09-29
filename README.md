@@ -4,7 +4,12 @@ I work on observability at **ION Trading**: Java and Spring services that collec
 
 Outside work I mostly build desktop tools for Windows that fix my own annoyances. They're usually Go with a Svelte UI, and they go all the way to a proper installer and a release page.
 
-[Portfolio](https://arghya2801.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arghya333/) · [Resume](https://drive.google.com/file/d/1DmDorIE9CL8iTCmt8ilQg0Dyz7jVpCMf/view) · [arghya2801@gmail.com](mailto:arghya2801@gmail.com)
+<p>
+<a href="https://arghya2801.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/arghya333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MyAyLjA2MyAwIDEgMSAwLTQuMTI2IDIuMDYzIDIuMDYzIDAgMCAxIDAgNC4xMjZ6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn"></a>
+<a href="https://drive.google.com/file/d/1DmDorIE9CL8iTCmt8ilQg0Dyz7jVpCMf/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
+<a href="mailto:arghya2801@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
@@ -46,8 +51,7 @@ Outside work I mostly build desktop tools for Windows that fix my own annoyances
 
 ### Stack
 
-**Day job:** Java · Spring Boot · Prometheus · Grafana · OpenSearch · Fluent Bit · Linux<br>
-**Side projects:** Go · TypeScript · Svelte · Next.js · Convex · C++<br>
-**Cloud:** AWS (Solutions Architect Associate) · OCI (DevOps Professional) · Docker · Kubernetes
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,prometheus,grafana,linux,docker,kubernetes,aws&perline=8" alt="Java, Spring, Prometheus, Grafana, Linux, Docker, Kubernetes, AWS"></a><br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,ts,svelte,nextjs,react,tailwind,cpp,python&perline=8" alt="Go, TypeScript, Svelte, Next.js, React, Tailwind, C++, Python"></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghya2801&layout=compact&hide_border=true&bg_color=00000000&title_color=ff9830&text_color=9198a1&langs_count=8&hide=html,css" height="150" alt="Top languages">
+<sub>Also: OpenSearch · Fluent Bit · Convex · Wails. AWS Solutions Architect Associate, OCI DevOps Professional.</sub>
