@@ -15,21 +15,6 @@ Outside work I mostly build desktop tools for Windows that fix my own annoyances
 
 ### What I've been building
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/arghya2801/agent-terminal-control"><img src="cards/atc.svg" alt="Agent Terminal Control: a Windows terminal with a sidebar of Claude Code and Codex sessions"></a></td>
-<td width="50%"><a href="https://github.com/arghya2801/directory-size-exporter"><img src="cards/directory-size-exporter.svg" alt="directory-size-exporter: Prometheus exporter for per-directory disk usage"></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/arghya2801/email_newsletter_reader"><img src="cards/newsletters.svg" alt="Newsletters: desktop reader for Gmail newsletter labels"></a></td>
-<td><a href="https://github.com/arghya2801/taiga"><img src="cards/taiga.svg" alt="Taiga fork: MyAnimeList anime and manga client for Windows"></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/arghya2801/portfolio"><img src="cards/portfolio.svg" alt="Portfolio site styled as a Grafana dashboard"></a></td>
-<td><a href="https://github.com/arghya2801/visual-product-matcher-backend"><img src="cards/visual-product-matcher.svg" alt="Visual Product Matcher: image similarity search with embeddings"></a></td>
-</tr>
-</table>
-
 - **[Agent Terminal Control](https://github.com/arghya2801/agent-terminal-control):** I got tired of `claude --resume` and trying to remember which folder a session lived in. ATC reads `~/.claude/projects` and Codex's history and puts every session under its project, one click to resume. It runs a real ConPTY terminal with tabs, split panes, tasks linked to branches, and a usage page that shows what the tokens would have cost at API prices. Started on Tauri/Rust, now on Go/Wails.
 - **[directory-size-exporter](https://github.com/arghya2801/directory-size-exporter):** node_exporter tells you a volume is 90% full. This tells you which directory filled it. Scans run in the background with timeouts and concurrency caps, and a failed scan never publishes partial numbers, so it can't fake a capacity drop and set off alerts.
 - **[Newsletters](https://github.com/arghya2801/email_newsletter_reader):** a reader for the Gmail labels my filters already sort newsletters into. It's not a mail client. The only change it makes to the mailbox is marking an issue read.
